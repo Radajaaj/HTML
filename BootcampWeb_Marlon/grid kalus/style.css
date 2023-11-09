@@ -1,0 +1,13 @@
+.article {
+    border: 1px solid #000;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+}
+.content {
+    background-color: aquamarine;
+    color: blue;
+    text-align: center;
+}
